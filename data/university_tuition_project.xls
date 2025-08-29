@@ -1,0 +1,25 @@
+﻿University,Year,Department,Scholaship_rate,Tuition_TRY,BigMacMenu_TRY,MinWage_TRY_Monthly,USD_TRY_ExchangeRate
+MEF,2018,Computer Engineering,50,22090,14,1450,4.811
+MEF,2019,Computer Engineering,50,25624,19,1829,5.67
+MEF,2020,Computer Engineering,50,26359,30,2324,7
+MEF,2021,Computer Engineering,50,31586,37,2825,8.86
+MEF,2022,Computer Engineering,50,47900,53,5500,16.588
+MEF,2023,Computer Engineering,50,144000,135,11402,23.813
+MEF,2024,Computer Engineering,50,288000,255,17002,32.881
+MEF,2025,Computer Engineering,50,516800,350,22104,37.81
+Kadir Has,2018,Computer Engineering,50,26000,14,1450,4.811
+Kadir Has,2019,Computer Engineering,50,31250,19,1829,5.67
+Kadir Has,2020,Computer Engineering,50,33000,30,2324,7
+Kadir Has,2021,Computer Engineering,50,38500,37,2825,8.86
+Kadir Has,2022,Computer Engineering,50,77080,53,5500,16.588
+Kadir Has,2023,Computer Engineering,50,164500,135,11402,23.813
+Kadir Has,2024,Computer Engineering,50,365200,255,17002,32.881
+Kadir Has,2025,Computer Engineering,50,650000,350,22104,37.81
+Bilgi,2018,Computer Engineering,50,26986,14,1450,4.811
+Bilgi,2019,Computer Engineering,50,32962,19,1829,5.67
+Bilgi,2020,Computer Engineering,50,35455,30,2324,7
+Bilgi,2021,Computer Engineering,50,45634,37,2825,8.86
+Bilgi,2022,Computer Engineering,50,119000,53,5500,16.588
+Bilgi,2023,Computer Engineering,50,148750,135,11402,23.813
+Bilgi,2024,Computer Engineering,50,372500,255,17002,32.881
+Bilgi,2025,Computer Engineering,50,550900,350,22104,37.81
