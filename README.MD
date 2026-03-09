@@ -42,7 +42,7 @@ To make the numbers more tangible, tuition is expressed not only in **TRY and US
 ---
 
 ## 💡 Key Insights
-- 📈 Tuition increased nearly **10×** in 7 years (2018 → 2025).  
+- 📈 Tuition increased nearly **25×** in 7 years (2018 → 2025).  
 - 🍔 In 2025, one year of tuition equals **thousands of Big Mac menus**.  
 - 💸 Even with a 50% scholarship, a student needs to work **2+ years on minimum wage** without spending to afford one year’s tuition.  
 - 🚀 Tuition growth far outpaced both wage increases and inflation, making education less accessible.  
